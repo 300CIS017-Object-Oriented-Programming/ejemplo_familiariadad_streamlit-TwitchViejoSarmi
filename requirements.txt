@@ -1,0 +1,5 @@
+﻿numpy >= 1.21.6
+openpyxl
+streamlit>=1.13.0
+pydataxm== 0.2.6
+plotly>=5.8.2
