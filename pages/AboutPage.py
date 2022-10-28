@@ -7,6 +7,8 @@ def mostrar():
         #### 
         Aplicación de **streamlit**.
 
+        Este es un ejemplo de lo que se puede hacer en este framework.
+
         ####
         Ejemplo elaborado para @   por Luisa Rincón.
 
