@@ -5,7 +5,7 @@ from controller.AppController import AppController
 from model.DatosPersonales import DatosPersonales
 
 
-
+# TODO Encontrar o hacer el metodo controlar_menu
 class MainPage:
 
     def __init__(self) -> None:
@@ -39,4 +39,4 @@ class MainPage:
 # Main call
 if __name__ == "__main__":
     gui = MainPage()
-    #gui.controlar_menu()
+    # gui.controlar_menu()
