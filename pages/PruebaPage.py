@@ -19,7 +19,7 @@ def probar_streamlit():
 
             with st.expander("Contexto"):
                 st.write("""
-                    Habían descubierto un comando de admin de nombre 'patata' cuya función era castigar a quienes lo usaran. Los que lo usaron simplemente las caían rayos y pare de contar. Y bueno, como habrán en el clip, a mi me paso otra cosa.
+                    Habían descubierto un comando de admin de nombre 'patata' cuya función era castigar a quienes lo usaran. Los que lo usaron simplemente las caían rayos y pare de contar. Y bueno, como habrán visto en el clip, a mi me paso otra cosa.
                 """)
 
 
